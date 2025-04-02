@@ -1,0 +1,9 @@
+Terra Pinyin TW (地球拼音 （正體字）)
+
+Based on [terra-pinyin](https://github.com/rime/rime-terra-pinyin/) for the [RIME IME](https://rime.im).
+
+Started as a way for me to not have to edit the terra=pinyin schema file at the start for convenience, but I also forked the dictionary because it didn't have 𰻞𰻞麵 in it. Over time I may edit more to make it more useful.
+
+License of the schema is GPL v3.0.
+The dictionary however is [Creative Commons Attribution-Share Alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
+(I didn't really pick those, but licensing is a pain in the ass and this is what the upstream files seem to be so that's what we will use).
