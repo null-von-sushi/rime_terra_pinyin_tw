@@ -77,7 +77,7 @@ speller:
     - 'derive/^(.*)\\$/$1>/'
 
 translator:
-  dictionary: terra_pinyin
+  dictionary: terra_pinyin_tw
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - xform/([nl])v/$1ü/
